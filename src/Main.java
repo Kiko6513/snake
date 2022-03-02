@@ -1,9 +1,13 @@
 import javax.swing.SwingUtilities;
 
+/**
+ *
+ * @author DAM1
+ */
 public class Main {
 
     /**
-     * @param args
+     * @param args arguments
      */
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
